@@ -1,0 +1,17 @@
+.but{
+    color:rgb(249, 129, 147);
+    background-color: black;
+}
+div{
+    background-color: rgb(240, 240, 240);
+    width: 800px;
+    
+}
+img{
+    
+    align-items: center;
+}
+.tieude{
+    background-color:rgb(249, 129, 147) ;
+    box-sizing: border-box;
+}
